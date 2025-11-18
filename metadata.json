@@ -1,0 +1,5 @@
+{
+  "name": "SpeakWithMe",
+  "description": "Bring your words to life. Instantly create natural-sounding audio with the power of the Gemini API. Users can input text, select from various pre-built voices, and generate an audio file for playback.",
+  "requestFramePermissions": []
+}
